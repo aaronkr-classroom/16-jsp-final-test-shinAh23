@@ -5,7 +5,7 @@
       <figure class="logo">
         <a href="${pageContext.request.contextPath}/index.jsp">
           🚈
-          <h1 class="site-title">
+		  <h1 class="site-title">
             <span class="ut-red">UT</span>-NodeJS 중간고사
           </h1>
         </a>
@@ -13,7 +13,7 @@
 
       <!-- 메뉴 -->
       <nav class="menu">
-        <a class="menu-item" name="Contact" href="${pageContext.request.contextPath}/register.jsp">가입</a>
+        <a class="menu-item" href="${pageContext.request.contextPath}/register.jsp">가입</a>
       </nav>
 
       <!-- 반응형 메뉴 버튼 -->
